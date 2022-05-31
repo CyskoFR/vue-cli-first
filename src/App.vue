@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <BaseTitle msg="La mia prima app con Vue CLI!"/>
+    <BaseTitle/>
   </div>
 </template>
 
